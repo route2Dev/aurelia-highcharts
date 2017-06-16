@@ -1,4 +1,3 @@
-import "bootstrap/css/bootstrap.css!";
 import {inject} from "aurelia-framework";
 import {GraphData} from "./graphData";
 
